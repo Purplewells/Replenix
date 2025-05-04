@@ -1,4 +1,4 @@
-# Replenix: Unified Merchandise Management & Pricing Platform
+# Replenix: Unified Merchandise & Pricing Management
 Replenix is a modern, modular solution designed to support comprehensive merchandise lifecycle management, pricing governance, and inventory operations for retail enterprises. Built with flexibility in mind, Replenix offers rule-driven configuration, scalable architecture, and seamless integration capabilities to meet the dynamic needs of modern retail businesses.
 
 # Replenix Core Modules & Capabilities
